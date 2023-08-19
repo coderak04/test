@@ -1,3 +1,0 @@
-Name: Akshat Bhagotra
-Skills: Python, Java, Data Science, Data Analysis
-Email:akshatbhagotra007@gmail.com
